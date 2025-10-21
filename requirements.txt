@@ -1,0 +1,7 @@
+apache-airflow==2.11.0
+psycopg2-binary==2.9.9
+pandas==2.1.4
+sqlalchemy==1.4.53
+apache-airflow-providers-postgres==5.12.0
+scrapy==2.11.0
+chardet==5.2.0
